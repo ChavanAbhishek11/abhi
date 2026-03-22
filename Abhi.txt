@@ -1,1 +1,3 @@
-Hello Iam Abhishek Chavan 
+Hello Iam Abhishek Chavan
+Welcome to Thane insys class
+Today session will be devops
